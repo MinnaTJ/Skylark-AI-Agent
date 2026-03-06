@@ -1,4 +1,7 @@
 # Monday.com Business Intelligence Agent
+## Live Demo
+
+https://skylark-ai-agent.streamlit.app/
 
 ## Overview
 This repository contains my submission for the **Monday.com Business Intelligence Agent** Technical Assignment. The goal is to provide a conversational AI bot capable of answering founder-level BI queries by intelligently retrieving and analyzing messy business data from Monday.com boards (such as Work Orders and Deals).
